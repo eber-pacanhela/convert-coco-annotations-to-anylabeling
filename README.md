@@ -9,8 +9,8 @@ python ./convert_coco_annotations_to_anylabeling/main.py
 ### Parameters
 
 ```
--a, --coco-annotations-file: COCO annotations file. Default: "./_annotations.coco.json".
--s, --consider-supercategory: Consider supercategory as category.
+-a, --coco-annotations-file   COCO annotations file. Default: "./_annotations.coco.json".
+-s, --consider-supercategory  Consider supercategory as category.
 ```
 
 ### Example
