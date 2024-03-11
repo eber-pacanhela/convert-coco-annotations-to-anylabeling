@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "convert-coco-annotations-to-anylabeling"
+version = "0.1.0"
+description = ""
+authors = ["Eber Pacanhela <eber.pacanhela@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
